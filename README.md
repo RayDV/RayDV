@@ -8,7 +8,7 @@ I'm a **Software Engineer** with a passion for building user-centric products an
 
 | PM & Strategy | Languages & Databases | Frameworks & Tools |
 | :--- | :--- | :--- |
-| Agile Methodologies | TypeScript, JavaScript, Java, Python | Next.js, React.js, Spring Boot |
+| Agile Methodologies | TypeScript, JavaScript, Java, Python, C++ | Next.js, React.js, Spring Boot |
 | Product Strategy | HTML, CSS | SupaBase, Firebase |
 | Product Roadmaps | SQL (PostgreSQL, MySQL) | Git, Github Actions, Jira, Miro |
 | User Research & Stories | MongoDB | Tailwind CSS, Redux, Figma |
